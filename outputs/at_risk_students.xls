@@ -1,0 +1,8 @@
+study_hours,attendance,sleep_hours,internet_usage,assignments_completed,previous_score,exam_score,placement_status,performance,predicted_performance
+1,47,5,10,0,46,26.89,Not Placed,Fail,Fail
+1,56,6,8,0,37,36.08,Not Placed,Fail,Fail
+1,54,4,9,1,47,33.49,Not Placed,Fail,Fail
+2,45,4,10,0,47,48.28,Not Placed,Pass,Fail
+2,57,4,10,0,38,31.83,Not Placed,Fail,Fail
+1,46,4,2,0,41,31.97,Not Placed,Fail,Fail
+1,45,6,7,0,37,50.76,Not Placed,Pass,Fail
